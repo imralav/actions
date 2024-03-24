@@ -15,4 +15,4 @@ outputs:
     description: 'Who we dislike'
 runs:
   using: 'node20'
-  main: 'index.js'
+  main: 'dist/index.js'
